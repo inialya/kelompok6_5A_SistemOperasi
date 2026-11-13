@@ -44,7 +44,7 @@ Proyek ini bukan karya pribadi sepenuhnya. Bagian yang saya kerjakan dijelaskan 
 | --- | --- |
 | `scripts/checksum.sh` | https://github.com/SO-Kelompok6/kelompok6_5A_SistemOperasi/commit/ef0c49a |
 | Bukti pengujian (`evidence/kasus_uji_3.txt`) | https://github.com/SO-Kelompok6/kelompok6_5A_SistemOperasi/commit/ff8bf23 |
-| Commit akhir repository pribadi | [https://github.com/inialya/kelompok6_5A_SistemOperasi/commit/9bf1bad89d04e7fa70c351fd849db9e81b6dd532] |
+| Commit akhir repository pribadi | https://github.com/inialya/kelompok6_5A_SistemOperasi/commit/9bf1bad89d04e7fa70c351fd849db9e81b6dd532 |
 
 ## Skenario Individu: Verifikasi Integritas dan checksum
 
